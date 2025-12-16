@@ -14,9 +14,10 @@ This assessment is simple: complete the items below and share the resulting link
 - Node.js version: 18.x (use the same in Dockerfile, compose, and CI).
 - Next.js build commands:
   ```bash
-  npm ci
-  npm run build
-  npm run start
+  npm install
+  npx knex migrate:latest --knexfile knexfile.ts  #Run migrations
+  npx knex seed:run --knexfile knexfile.ts  #Run seeders (optional) 
+  npm run dev
   ```
   (Use `npm install` locally if you are not in CI.)
 
