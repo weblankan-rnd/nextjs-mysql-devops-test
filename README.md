@@ -51,3 +51,6 @@ Email the following to support@weblankan.com with CC to manager@weblankan.com:
 ### 4. GitHub Actions (CI/CD) — 25 Points
 - Pipeline for building and pushing Docker images to a registry: 20 pts
 - Multi-stage pipeline configuration: 5 pts
+
+## Note
+This is a standard assessment—stick to the requested deliverables and respond only with what you actually know. No filler or “good luck” messages; incomplete answers here do not preclude future interview stages.
