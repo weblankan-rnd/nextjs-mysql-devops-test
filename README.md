@@ -1,9 +1,10 @@
 # NextJS + MySQL DevOps Interview Tasks
 
-This assessment is simple: complete the items below and share the resulting links. No how-to details are provided—just deliver the outcomes.
+This assessment is simple: complete the items below and share the resulting links. No how-to details are provided just deliver the outcomes.
 
 ## Tasks to complete
-1. Fork this repository to your GitHub profile and keep it public.
+1. Fork this [repository](https://github.com/weblankan-rnd/nextjs-mysql-devops-test)
+to your GitHub profile and keep it public.  
 2. Create a Dockerfile to run the project.
 3. Create `docker-compose.yml` with the app and a MySQL database.
 4. Set up a GitHub Actions CI/CD pipeline that builds the web app image and pushes it to Docker Hub or GitHub Container Registry.
@@ -54,4 +55,4 @@ Email the following to support@weblankan.com with CC to manager@weblankan.com:
 - Multi-stage pipeline configuration: 5 pts
 
 ## Note
-This is a standard assessment—stick to the requested deliverables and respond only with what you actually know. No filler or “good luck” messages; incomplete answers here do not preclude future interview stages.
+This is a standard assessment stick to the requested deliverables and respond only with what you actually know. No filler or “good luck” messages; incomplete answers here do not preclude future interview stages.
